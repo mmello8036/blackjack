@@ -2,6 +2,7 @@
 matlab project
 %Blackjack
 %Mariah Smith 11/22/17
+%Meghan Mello
 
 clear all; close all; clc
 
